@@ -1,3 +1,15 @@
+## Overview
+This project demonstrates a Role-Based Access Control (RBAC) system implemented using React. It allows for secure management of user roles and permissions with dynamic UI rendering.
+
+## Features
+- **Role Management:** Create and manage roles with specific permissions.
+- **Dynamic Navigation:** Sidebar updates based on user roles.
+- **Access Control:** Restricts access to specific pages or actions based on roles.
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/RBAC-UI.git
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
